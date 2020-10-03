@@ -19,7 +19,6 @@ Total: 18/25
 Question 1-4:
 ```
 Các thuật toán tìm kiếm được xây dựng khá giống nhau với việc duyệt các node và đẩy chúng vào hàng đợi đến khi chạm đến đích:
-```
 - Với DFS, sử dụng stack
 - Với BFS, sử dụng queue
 - UCS sẽ sử dụng hàng đợi ưu tiên(priority queue)
